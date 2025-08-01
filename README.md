@@ -1,5 +1,6 @@
-![Smart Crop Protection System using ESP32-CAM](https://raw.githubusercontent.com/SriramSankar-Techfolio/Smart-Crop-Protection-ESP-32/main/file_00000000ac3061fda94e6138a7d74b42.png)
 ###Smart Crop Protection System using ESP32-CAM
+![Smart Crop Protection System using ESP32-CAM](https://raw.githubusercontent.com/SriramSankar-Techfolio/Smart-Crop-Protection-ESP-32/main/file_00000000ac3061fda94e6138a7d74b42.png)
+
 
 Overview
 This smart system protects crop fields by detecting animals using both motion sensors and a camera. It instantly alerts the farmer through SMS and calls, while also triggering light and sound deterrents to scare animals away.
